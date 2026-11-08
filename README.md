@@ -8,7 +8,7 @@ I turn trading ideas into production tools: TradingView indicators and strategy 
 - 🔬 Building Python data and research tooling for the Indonesian stock market
 - 💼 Open to remote quant, trading-systems, backend and data-engineering work
 
-**Work with me** · remote, 40 hrs/week, UTC+7 (overlaps EU business hours and US East mornings)
+**Work with me** · remote, UTC+7 (overlaps EU business hours and US East mornings)
 - Custom TradingView indicators & strategy testers (Pine Script v6)
 - Strategy backtesting & risk-management logic
 - Trading automation: alerts, webhooks, third-party broker integration, Telegram bots
